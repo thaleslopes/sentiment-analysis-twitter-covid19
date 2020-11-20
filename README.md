@@ -1,5 +1,7 @@
 # Sentiment Analysis on Twitter Data related to COVID-19
-# NLP algorithms used: BERT, DistilBERT and NBSVM
+
+
+## NLP algorithms used: BERT, DistilBERT and NBSVM
 
 The COVID-19 pandemic has a significant impact in Brazil and in the world, generating
 negative repercussions not only in healthcare, but also affecting society at social, political and
